@@ -5,8 +5,9 @@ You might have noticed that it's a bit more sparse than previous starter repos w
 
 Below, we'll explain the pieces of the project we expect you to have:
 
-## planning.md
-This file should contain the planning you did to prepare before starting your project. This could include a description of tasks your team needs to do, how you will divide the tasks, and milestones you want to reach.
+## proposal
+Paste a link to your proposal google doc below (make sure link share status is set to can comment):
+
 
 ## game.py
 When we run this file, your game should run.
