@@ -1,4 +1,4 @@
-# Games Unit Prject
+# Games Unit Project
 This repository will ultimately hold the game you create for your unit 2 project.
 
 You might have noticed that it's a bit more sparse than previous starter repos we've given you. That's because you will be responsible for creating this project from start to finish. You are welcome to use the code and files from previous projects and labs, but what you use will be up to you.
@@ -7,7 +7,6 @@ Below, we'll explain the pieces of the project we expect you to have:
 
 ## proposal
 Paste a link to your proposal google doc below (make sure link share status is set to can comment):
-
 
 ## game.py
 When we run this file, your game should run.
